@@ -1,7 +1,7 @@
 name: Dekart
 website_url: https://dekart.xyz
 source_code_url: https://github.com/dekart-xyz/dekart
-description: Turn SQL queries into shareable interactive maps. Connects BigQuery, Snowflake, and PostGIS. (alternative to CARTO)
+description: Turn SQL queries into shareable interactive maps. Connects BigQuery, Snowflake, and PostGIS. (alternative to CARTO).
 licenses:
   - AGPL-3.0
 platforms:
